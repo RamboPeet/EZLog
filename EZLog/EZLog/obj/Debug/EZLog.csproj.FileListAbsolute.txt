@@ -1,0 +1,4 @@
+C:\Users\Petie\Google Drive\Open Source Projects\EZLog\EZLog\bin\Debug\EZLog.dll
+C:\Users\Petie\Google Drive\Open Source Projects\EZLog\EZLog\bin\Debug\EZLog.pdb
+C:\Users\Petie\Google Drive\Open Source Projects\EZLog\EZLog\obj\Debug\EZLog.dll
+C:\Users\Petie\Google Drive\Open Source Projects\EZLog\EZLog\obj\Debug\EZLog.pdb
